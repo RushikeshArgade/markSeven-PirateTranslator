@@ -1,6 +1,8 @@
-var inputText = document.querySelector("#translate-input")
-var translateButton = document.querySelector("#translate-button")
-var outputText = document.querySelector("#translate-output")
+var inputText = document.querySelector("#translate-input");
+var translateButton = document.querySelector("#translate-button");
+var outputText = document.querySelector("#translate-output");
+
+// console.log(inputText)
 
 var url = "https://api.funtranslations.com/translate/pirate.json"
 
